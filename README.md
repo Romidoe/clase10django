@@ -1,0 +1,3 @@
+# clase10django
+Esta es la clase 10 sobre django
+Este README no tiene nada de explicativo ya que es una clase e intento de programar...
